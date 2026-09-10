@@ -65,4 +65,3 @@ National College, Tiruchirappalli, Tamil Nadu, India
 
 - LinkedIn: `https://www.linkedin.com/in/nivethitha-m-9025763b0/`
 - GitHub: `https://github.com/mnivethitha369-crypto`
-- Email: `mnivethitha70@gmail.com`
