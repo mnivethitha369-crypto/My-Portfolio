@@ -1,67 +1,61 @@
-Portfolio
+🌐 Personal Portfolio
 
-A responsive personal portfolio website 
+«A responsive personal portfolio website showcasing my skills, projects, internships, achievements, and professional profile.»
 
-The portfolio showcases my skills, projects, education, certifications, internship experience, and career interests in software development and applications engineering.
+📌 About
 
-## Files
+This portfolio website was created to present my technical skills, projects, experience, achievements, and career interests in a simple and professional way.
 
-- `index.html` — Page structure and content
-- `style.css` — Responsive styling, light/dark mode, animations, and UI design
-- `script.js` — Theme toggle, mobile navigation, scroll animations, project interactions, and contact form submission
-- `resume.pdf` — Resume for recruiters to view/download
-- `assets/` — Profile photo and certificate files
+✨ Features
 
-## Features
+- 👩‍💻 About Me
+- 🛠️ Technical Skills
+- 💼 Internship Experience
+- 🚀 Projects
+- 🏆 Achievements & Certifications
+- 📄 Resume
+- 📬 Contact Section
+- 🌙 Light/Dark Mode
+- 📱 Responsive Design
 
-- Responsive design for desktop, tablet, and mobile
-- Light/Dark mode
-- Mobile navigation
-- Smooth scrolling
-- Scroll animations
-- Project showcase
-- Skills section
-- Certificates section
-- Resume section
-- Contact form
-- Web3Forms email integration
-- Accessible and semantic HTML structure
+🛠️ Technologies Used
 
-## Before Publishing
+- HTML5 — Structure
+- CSS3 — Styling & responsive design
+- JavaScript — Interactivity
+- Web3Forms — Contact form
+- Git & GitHub — Version control
+- Vercel / Netlify — Deployment
 
-1. Replace any placeholder email addresses with the correct public email.
-2. Add your final `resume.pdf`.
-3. Add your professional photo to `assets/`.
-4. Make sure `index.html` points to the correct profile image.
-5. Replace certificate `#` links with real certificate files or URLs.
-6. Add verified GitHub repository links to your projects.
-7. Add live-demo URLs where available.
-8. Make sure the Web3Forms access key is configured correctly.
-9. Test the contact form before publishing.
-10. Remove any test/demo content from the website.
+🚀 Getting Started
 
-## Contact Form
+git clone https://github.com/your-username/portfolio.git
+cd portfolio
 
-The portfolio contact form uses Web3Forms to deliver visitor messages to the configured email address.
+Open "index.html" in a browser or use VS Code Live Server.
 
-Before publishing, submit a test message and confirm that the notification email is received.
+🎯 Purpose
 
-## Technologies
+The portfolio is designed to:
 
-- HTML5
-- CSS3
-- JavaScript
-- Web3Forms
-- Git & GitHub
+- Showcase my technical skills and projects
+- Present my internship experience and achievements
+- Provide recruiters with an overview of my profile
+- Make my resume and contact information easily accessible
 
-## Author
+👩‍💻 Author
 
-**Nivethitha**
+Nivethitha M.
+LinkedIn: linkedin.com/in/nivethitha-m-9025763b0
+GitHub: github.com/mnivethitha369-crypto
 
-BCA III-year Student  
-National College, Tiruchirappalli, Tamil Nadu, India
+📄 Usage & License
 
-### Connect With Me
+This portfolio was developed as a personal project.
 
-- LinkedIn: `https://www.linkedin.com/in/nivethitha-m-9025763b0/`
-- GitHub: `https://github.com/mnivethitha369-crypto`
+The source code, design, and project materials are not intended for reuse, modification, or redistribution without permission from the author.
+
+If you would like to use, modify, or build upon this project, please contact me first for permission.
+
+Author: Nivethitha M.
+Email: mnivethitha12@gmail.com
